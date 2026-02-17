@@ -123,3 +123,12 @@ color: #721c24;
     background: #667eea;
     color: white;
 }
+.recipe-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+}
+
+.hidden {
+  display: none;
+}
